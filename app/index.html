@@ -19,24 +19,35 @@
     <!-- endbuild -->
 
   </head>
-  <body>
+  <body id="kn">
     <!--[if lt IE 10]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
 
+    <div id="header_bg">
+    </div>
+    <header class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Főoldal</a></li>
+                <li><a href="#">Nyaralók</a></li>
+                <li><a href="#">Árak & Akciók</a></li>
+                <li><a href="#">Galéria</a></li>
+                <li><a href="#">Látnivalók</a></li>
+                <li><a href="#">Kapcsolat</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><button ng-click="changeLanguage('de')" translate="BUTTON_TEXT_DE"></button></li>
+                <li><button ng-click="changeLanguage('en')" translate="BUTTON_TEXT_EN"></button></li>
+                <li><a href="http://www.facebook.com/kiszelynyaralo">facebook</a></li>
+            </ul>
+        </div>
+    </header>
+
     <div class="container">
-      <div class="header">
-        <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="#">Főoldal</a></li>
-          <li><a href="#">Nyaralók</a></li>
-          <li><a href="#">Árak & Akciók</a></li>
-          <li><a href="#">Galéria</a></li>
-          <li><a href="#">Árak & Akciók</a></li>
-          <li><a href="#">Árak & Akciók</a></li>
-        </ul>
-        <h3 class="text-muted">kiszelynyaralo</h3>
-      </div>
+
+      <h3 class="text-muted">kiszelynyaralo</h3>
 
       <div class="jumbotron">
         <h1>'Allo, 'Allo!</h1>

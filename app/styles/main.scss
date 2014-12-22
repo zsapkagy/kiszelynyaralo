@@ -1,4 +1,9 @@
 $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+
+$nav-bg-color: #FCE7D4;
+$nav-font-color: #EBA789;
+
+
 // bower:scss
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
 // endbower
@@ -88,5 +93,26 @@ body {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+  }
+}
+body#kn{
+  padding: 0;
+
+  header.navbar{
+    background-color: $nav-bg-color;
+    font-weight: bold;
+    border-bottom: 0;
+    margin-top: 5px;
+    a{
+      color: $nav-font-color;
+    }
+    .active a, :hover{
+      background-color: $nav-bg-color;
+      color: #fff;
+    }
+  }
+  #header_bg{
+    height: 300px;
+    background-color: $nav-font-color;
   }
 }
