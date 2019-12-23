@@ -1,0 +1,12 @@
+{
+    "app": {
+        "name": "Kiszely Summer House"
+    },
+    "nav": {
+        "summer-house": "Summer House",
+        "prices": "Prices",
+        "gallery": "Gallery",
+        "sights": "Sights",
+        "contact": "Contact"
+    }
+}

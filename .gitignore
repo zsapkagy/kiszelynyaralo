@@ -1,0 +1,7 @@
+.idea
+.vscode
+node_modules
+
+# vendor
+# css
+# js/*.min.js

@@ -1,0 +1,12 @@
+{
+    "app": {
+        "name": "Kiszely Ferien House"
+    },
+    "nav": {
+        "summer-house": "DENyaraló",
+        "prices": "DEÁrak és akciók",
+        "gallery": "DEGaléria",
+        "sights": "DELátnivalók",
+        "contact": "DEKapcsolat"
+    }
+}
