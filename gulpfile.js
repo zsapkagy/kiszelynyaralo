@@ -63,19 +63,11 @@ gulp.task('minify-js', function() {
 
 // Copy vendor libraries from /node_modules into /vendor
 gulp.task('copy', function() {
-  gulp
-    .src([
-      'node_modules/bootstrap/dist/fonts/*',
-      'node_modules/bootstrap/dist/css/bootstrap.min.css',
-      'node_modules/bootstrap/dist/js/bootstrap.min.js'
-    ])
-    .pipe(gulp.dest('build/bootstrap'));
+  gulp.src(['node_modules/bootstrap/dist/css/bootstrap.min.css']).pipe(gulp.dest('build/bootstrap/css'));
+  gulp.src(['node_modules/bootstrap/dist/js/bootstrap.min.js']).pipe(gulp.dest('build/bootstrap/js'));
+  gulp.src(['node_modules/bootstrap/dist/fonts/*']).pipe(gulp.dest('build/bootstrap/fonts'));
 
-  gulp
-    .src([
-      'node_modules/jquery/dist/jquery.min.js'
-    ])
-    .pipe(gulp.dest('build/jquery'));
+  gulp.src(['node_modules/jquery/dist/jquery.min.js']).pipe(gulp.dest('build/jquery'));
 
   gulp
     .src([
