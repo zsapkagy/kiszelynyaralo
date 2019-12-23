@@ -1,161 +1,152 @@
 {
-    "app": {
-        "name": "Kiszely <span>Nyaraló</span>",
-        "legend": "Szállás kellemes, nyugodt környezetben a Holt-Körös partján!"
+  "app": {
+    "name": "Kiszely <span>Nyaraló</span>",
+    "legend": "Szállás kellemes, nyugodt környezetben a Holt-Körös partján!"
+  },
+  "misc": {
+    "menu": "Menü",
+    "toggle-nav": "Toggle navigation"
+  },
+  "nav": {
+    "summer-house": "Nyaraló",
+    "prices": "Árak és akciók",
+    "gallery": "Galéria",
+    "sights": "Látnivalók",
+    "contact": "Kapcsolat"
+  },
+  "summer-house": {
+    "intro": {
+      "title": "Pihenés a Kiszely Nyaralóban",
+      "p1": "Ikernyaralónk Békésszentandrás üdülőövezetében, a főút zajától távol, közvetlen a Holt-Körös partján található, így csendes, nyugodt környezetet tudunk biztosítani minden pihenni vágyó számára.",
+      "p2": "Az igényes, szép környezetet nagyon fontosnak tartjuk, melyet a nyaraló kialakításában és felszereltségében, valamint a kert ápoltságában igyekszünk mindenki számára láthatóvá tenni.  Szolgáltatásunk legújabb bővítése 2017 nyarán valósult meg. Ezentúl <strong>medence</strong> és <strong>pezsgőfürdő</strong> használata is lehetséges vendégeink számára!",
+      "p3": "A Holt-Körös vízszintje szabályozott – minden úszó számára tökéletes lehetőség a napi sportolásra. Nyáron a víz hőmérséklete kellemes, ideális a lubickolásra, kikapcsolódásra. Mindemellett horgászásra is kiváló.",
+      "p4": "Az ikernyaraló két különálló részből áll, mely igény szerint együtt és külön-külön is bérbe vehető. Egy nyaraló max. 5 fő számára bérelhető, így a befogadóképesség a <strong>két nyaralóban összesen 10 fő!</strong>"
     },
-    "misc": {
-        "menu": "Menü",
-        "toggle-nav": "Toggle navigation"
-    },
-    "nav": {
-        "summer-house": "Nyaraló",
-        "prices": "Árak és akciók",
-        "gallery": "Galéria",
-        "sights": "Látnivalók",
-        "contact": "Kapcsolat"
-    },
-    "summer-house": {
-        "intro": {
-            "title": "Pihenés a Kiszely Nyaralóban",
-            "p1": "Ikernyaralónk Békésszentandrás üdülőövezetében, a főút zajától távol, közvetlen a Holt-Körös partján található, így csendes, nyugodt környezetet tudunk biztosítani minden pihenni vágyó számára.",
-            "p2": "Az igényes, szép környezetet nagyon fontosnak tartjuk, melyet a nyaraló kialakításában és felszereltségében, valamint a kert ápoltságában igyekszünk mindenki számára láthatóvá tenni.  Szolgáltatásunk legújabb bővítése 2017 nyarán valósult meg. Ezentúl <strong>medence</strong> és <strong>pezsgőfürdő</strong> használata is lehetséges vendégeink számára!",
-            "p3": "A Holt-Körös vízszintje szabályozott – minden úszó számára tökéletes lehetőség a napi sportolásra. Nyáron a víz hőmérséklete kellemes, ideális a lubickolásra, kikapcsolódásra. Mindemellett horgászásra is kiváló.",
-            "p4": "Az ikernyaraló két különálló részből áll, mely igény szerint együtt és külön-külön is bérbe vehető. Egy nyaraló max. 5 fő számára bérelhető, így a befogadóképesség a <strong>két nyaralóban összesen 10 fő!</strong>"
+    "parts": {
+      "title": "Mindkét nyaraló a következő helységekből áll",
+      "places": {
+        "1": {
+          "title": "Földszint",
+          "1": {
+            "title": "konyha",
+            "desc": "(hűtő, villanytűzhely, mikrohullámú sütő, kenyérpirító, edények, evőeszközök)"
+          },
+          "2": {
+            "title": "étkező",
+            "desc": "(asztal székekkel 6 fő részére, baba etetőszék, műholdas TV)"
+          },
+          "3": {
+            "title": "fürdőszoba",
+            "desc": "(tusolóval, WC-vel felszerelve)"
+          }
         },
-        "parts": {
-            "title": "Mindkét nyaraló a következő helységekből áll",
-            "places": {
-                "1": {
-                    "title": "Földszint",
-                    "1": {
-                        "title": "konyha",
-                        "desc": "(hűtő, villanytűzhely, mikrohullámú sütő, kenyérpirító, edények, evőeszközök)"
-                    },
-                    "2": {
-                        "title": "étkező",
-                        "desc": "(asztal székekkel 6 fő részére, baba etetőszék, műholdas TV)"
-                    },
-                    "3": {
-                        "title": "fürdőszoba",
-                        "desc": "(tusolóval, WC-vel felszerelve)"
-                    }
-                },
-                "2": {
-                    "title": "Emelet",
-                    "1": {
-                        "title": "hálószoba franciaággyal - igény szerint különválasztható",
-                        "desc": "(légkondicionáló, ágynemű)"
-                    },
-                    "2": {
-                        "title": "hálószoba két különálló ággyal + pótágy",
-                        "desc": "(légkondicionáló, ágynemű)"
-                    },
-                    "3": {
-                        "title": "erkély mindkét szobából"
-                    }
-                },
-                "3": {
-                    "title": "Udvar",
-                    "1": {
-                        "title": "zárt parkolási lehetőség három gépkocsi részére"
-                    },
-                    "2": {
-                        "title": "kerékpár",
-                        "desc": "(6 db)"
-                    },
-                    "3": {
-                        "title": "trambulin"
-                    }
-                },
-                "4": {
-                    "title": "Vízpart",
-                    "1": {
-                        "title": "kerítés a vízpart teljes szakaszán"
-                    },
-                    "2": {
-                        "title": "kialakított kerti sütési, főzési lehetőség",
-                        "desc": "(szalonnasütő, grillsütő , bográcsozó)"
-                    },
-                    "3": {
-                        "title": "csónak evezőkkel",
-                        "desc": "(igény szerint motorral)"
-                    },
-                    "4": {
-                        "title": "kerti bútorok",
-                        "desc": "(napozóágyak, napernyő, asztal, székek)"
-                    },
-                    "5": {
-                        "title": "stég"
-                    },
-                    "6": {
-                        "title": "vízibicikli"
-                    },
-                    "7": {
-                        "title": "delfinkajak"
-                    },
-                    "8": {
-                        "title": "kerti tusoló"
-                    },
-                    "9": {
-                        "title": "medence"
-                    },
-                    "10": {
-                        "title": "jakuzzi/pezsgőfürdő"
-                    }
-                }
-            }
-        }
-    },
-    "gallery": {
-        "title": "Galéria"
-    },
-    "price": {
-        "title": "Árak és akciók",
-        "common": {
-            "house/day": "nyaraló / éj"
+        "2": {
+          "title": "Emelet",
+          "1": {
+            "title": "hálószoba franciaággyal - igény szerint különválasztható",
+            "desc": "(légkondicionáló, ágynemű)"
+          },
+          "2": {
+            "title": "hálószoba két különálló ággyal + pótágy",
+            "desc": "(légkondicionáló, ágynemű)"
+          },
+          "3": {
+            "title": "erkély mindkét szobából"
+          }
         },
-        "category": {
-            "1": {
-                "title": "Főszezon",
-                "date": {
-                    "1": "június 1-től augusztus 31-ig"
-                }
-            },
-            "2": {
-                "title": "Kiemelt időszakok",
-                "date": {
-                    "0": "2019. március 15-17. <span>(Március 15.)</span>",
-                    "1": "2019. április 19-22. <span>(Húsvét)</span>",
-                    "2": "2018. április 27- május 1. <span>(Május 1.)</span>",
-                    "3": "2018. május 18-21 <span>(Pünkösd)</span>",
-                    "4": "2018. augusztus 18-20. <span>(Augusztus 20.)</span> <span>EKKOR A KÉT NYARALÓ EGYÜTT 50.000 FT/ÉJ ÁRON VEHETŐ KI!</span>",
-                    "5": "2019. szeptember 6-8. <span>(Szarvasi Szilvanapok)</span>",
-                    "6": "2018. október 20-23. <span>(Október 23.)</span>"
-                }
-            },
-            "3": {
-                "title": "Elő- és utószezon",
-                "date": {
-                    "1": "március 1-től május 31-ig",
-                    "2": "szeptember 1-től október 31-ig"
-                }
-            },
-            "4": {
-                "title": "<span>Akció</span> elő- és utószezonban",
-                "info": "A kiemelt időszakok kivételével",
-                "type": {
-                    "1": {
-                        "title": "3=4 éj",
-                        "desc1": "3 éjszaka foglalása esetén<br /> a 4. INGYENES!",
-                        "desc2": "nyaraló / 4 éj (max. 5 fő)"
-                    },
-                    "2": {
-                        "title": "5=7 éj",
-                        "desc1": "5 éjszaka foglalása esetén<br /> a 6-7. INGYENES!",
-                        "desc2": "nyaraló / 7 éj (max. 5 fő)"
-                    }
-                }
-            }
+        "3": {
+          "title": "Udvar",
+          "1": {
+            "title": "zárt parkolási lehetőség három gépkocsi részére"
+          },
+          "2": {
+            "title": "kerékpár",
+            "desc": "(6 db)"
+          },
+          "3": {
+            "title": "trambulin"
+          }
+        },
+        "4": {
+          "title": "Vízpart",
+          "1": {
+            "title": "kerítés a vízpart teljes szakaszán"
+          },
+          "2": {
+            "title": "kialakított kerti sütési, főzési lehetőség",
+            "desc": "(szalonnasütő, grillsütő , bográcsozó)"
+          },
+          "3": {
+            "title": "csónak evezőkkel",
+            "desc": "(igény szerint motorral)"
+          },
+          "4": {
+            "title": "kerti bútorok",
+            "desc": "(napozóágyak, napernyő, asztal, székek)"
+          },
+          "5": {
+            "title": "stég"
+          },
+          "6": {
+            "title": "vízibicikli"
+          },
+          "7": {
+            "title": "delfinkajak"
+          },
+          "8": {
+            "title": "kerti tusoló"
+          },
+          "9": {
+            "title": "medence"
+          },
+          "10": {
+            "title": "jakuzzi/pezsgőfürdő"
+          }
         }
+      }
     }
+  },
+  "gallery": {
+    "title": "Galéria"
+  },
+  "price": {
+    "title": "Árak és akciók",
+    "common": {
+      "house/day": "nyaraló / éj"
+    },
+    "category": {
+      "1": {
+        "title": "Főszezon",
+        "date": {
+          "1": "június 15-től augusztus 31-ig"
+        }
+      },
+      "2": {
+        "title": "Kiemelt időszakok"
+      },
+      "3": {
+        "title": "Elő- és utószezon",
+        "date": {
+          "1": "március 1-től május 31-ig",
+          "2": "szeptember 1-től október 31-ig"
+        }
+      },
+      "4": {
+        "title": "<span>Akció</span> elő- és utószezonban",
+        "info": "A kiemelt időszakok kivételével",
+        "type": {
+          "1": {
+            "title": "3=4 éj",
+            "desc1": "3 éjszaka foglalása esetén<br /> a 4. INGYENES!",
+            "desc2": "nyaraló / 4 éj (max. 5 fő)"
+          },
+          "2": {
+            "title": "5=7 éj",
+            "desc1": "5 éjszaka foglalása esetén<br /> a 6-7. INGYENES!",
+            "desc2": "nyaraló / 7 éj (max. 5 fő)"
+          }
+        }
+      }
+    }
+  }
 }
