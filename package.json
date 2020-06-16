@@ -14,7 +14,7 @@
         "gulp-less": "^3.1.0",
         "gulp-rename": "^1.2.2",
         "gulp-uglify": "^1.5.4",
-        "i18next-browser-languagedetector": "^1.0.0",
+        "i18next-browser-languagedetector": "^4.3.0",
         "i18next-xhr-backend": "^1.2.0",
         "jquery": "^1.11.3",
         "jquery-i18next": "^1.1.0"
