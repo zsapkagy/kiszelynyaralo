@@ -43,7 +43,7 @@
                 "2": {
                     "title": "Emelet",
                     "1": {
-                        "title": "hálószoba franciaággyal - igény szerint különválasztható",
+                        "title": "hálószoba franciaággyal (nem szétválasztható!)",
                         "desc": "(légkondicionáló, ágynemű)"
                     },
                     "2": {
@@ -62,9 +62,6 @@
                     "2": {
                         "title": "kerékpár",
                         "desc": "(6 db)"
-                    },
-                    "3": {
-                        "title": "trambulin"
                     }
                 },
                 "4": {
@@ -77,18 +74,17 @@
                         "desc": "(szalonnasütő, grillsütő , bográcsozó)"
                     },
                     "3": {
-                        "title": "csónak evezőkkel",
-                        "desc": "(igény szerint motorral)"
-                    },
-                    "4": {
-                        "title": "kerti bútorok",
-                        "desc": "(napozóágyak, napernyő, asztal, székek)"
-                    },
-                    "5": {
                         "title": "stég"
                     },
+                    "4": {
+                        "title": "csónak evezőkkel"
+                    },
+                    "5": {
+                        "title": "sup"
+                    },
                     "6": {
-                        "title": "vízibicikli"
+                        "title": "kerti bútorok",
+                        "desc": "(napozóágyak, napernyő, asztal, székek)"
                     },
                     "7": {
                         "title": "delfinkajak"
@@ -118,7 +114,7 @@
             "1": {
                 "title": "Főszezon",
                 "date": {
-                    "1": "2023. június 17-től augusztus 31-ig"
+                    "1": "2024. június 14-től augusztus 31-ig"
                 }
             },
             "2": {
